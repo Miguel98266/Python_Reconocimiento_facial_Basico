@@ -8,8 +8,8 @@ cv2.drawContours(imagen,contorno,-1,(65,105,225),3)
 #-1 Todos los contornos
 #Mostrar
 cv2.imshow('Imagen Original',imagen)
-#cv2.imshow('Imagen en Grises',grises)
-#cv2.imshow('Imagen Umbral',umbral)
+cv2.imshow('Imagen en Grises',grises)
+cv2.imshow('Imagen Umbral',umbral)
 print(tipoUmbral)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
