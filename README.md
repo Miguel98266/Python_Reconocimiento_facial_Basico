@@ -15,4 +15,9 @@
 * "contadormonedas.py" 
   ![monedas1](/Imagenes/monedas1.png)
   ![monedas2](/Imagenes/monedas2.png)
- * **Imagen original** es nuestro input de monedas el cual va analizar
+ * **Imagen original** es nuestro input de monedas el cual va analizar.
+ * **Imagen en Grises** convierte nuestra imagen en escala de grises para que sea mas facil tu procesamiento.
+ * **Imagen con Gauss** es un desenfoque gaussiano muy eficaz para eliminar el ruido gaussiano de una imagen.
+ * **Imagen con Canny** Canny Edge Detection es un popular algoritmo de detección de bordes.
+ * **Imagen Cierre** El cierre es inverso a la apertura, la dilatación seguida de la erosión . Es útil para cerrar pequeños agujeros dentro de los objetos en primer plano o  pequeños puntos negros en el objeto.
+ * * **Imagen Resultado con bordes** Es la imagen original con los bordes encontrados en la imagen. 
