@@ -15,3 +15,4 @@
 * "contadormonedas.py" 
   ![monedas1](/Imagenes/monedas1.png)
   ![monedas2](/Imagenes/monedas2.png)
+ * Imagen original es nuestro input de monedas el cual va analizar
