@@ -13,5 +13,5 @@
  ![Contorno](/Imagenes/Contorno.PNG)
 * "mostrarcamara.py" Este archivo sirve para poder conectar nuestra camara web con Python
 * "contadormonedas.py" 
-  ![monedas1](/Imagenes/monedas1.PNG)
-  ![monedas2](/Imagenes/monedas2.PNG)
+  ![monedas1](/Imagenes/monedas1.png)
+  ![monedas2](/Imagenes/monedas2.png)
